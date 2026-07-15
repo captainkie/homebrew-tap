@@ -7,7 +7,7 @@ cask "ai-usage-bar" do
   desc "Live Claude Code usage limits in the macOS menu bar"
   homepage "https://github.com/captainkie/ai-usage-bar"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "AIUsageBar.app"
 
