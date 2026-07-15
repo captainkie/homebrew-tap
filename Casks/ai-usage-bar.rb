@@ -1,6 +1,6 @@
 cask "ai-usage-bar" do
-  version "0.2.0"
-  sha256 "95f4aa1c19d0fda2b204526c4c1ed7fbf8b271328717da13f1d524cd879f51a5"
+  version "0.2.1"
+  sha256 "1369bfd5a6a8867d54505a06de7d1c8e6f9b0135e2543faff5c3ad075cd1d8cf"
 
   url "https://github.com/captainkie/ai-usage-bar/releases/download/v#{version}/AIUsageBar.zip"
   name "AI Usage Bar"
